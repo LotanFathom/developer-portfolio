@@ -72,6 +72,16 @@ h1{
 footer p {
     text-align: center;
     background-color: rgb(217, 255, 0);
+    margin: 0;
+}
+.footer{
+    background-color: rgb(217, 255, 0);
+    text-align: center;
+    padding: 10px 0;
+}
+
+footer h1{
+    margin: 0;
 }
 
 .plan{
