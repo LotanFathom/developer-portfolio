@@ -25,9 +25,11 @@ h1{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     padding: 20px 40px;
-    color: white;
+    color: blue;
     font-weight: 700;
-    border-radius: 10px
+    border-radius: 10px;
+    margin-top: 40px;
+    display: inline-block;
 }
 .top-banner{
     background-image: url(images/top-banner.png);
@@ -85,10 +87,23 @@ height: 250px;
 }
 
 .Social-Activites{
-    background-image: url(images/dream-bg.png);
+    background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: right;
     text-align:center;
     margin: 70px 0;
 }
+.social-width{
+    width: 40%;
 
+}
+.social-width img{
+    width: 100%;
+}
+
+.text{
+    text-align: left;
+}
+.together{
+    color: chocolate;
+}
